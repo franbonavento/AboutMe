@@ -17,7 +17,7 @@ Podés escribirme a 📧 franbonavento@gmail.com si necesitás saber mas de mi!
 
 🛠️ Habilidades
 
->> Python | MS SQL Server | PowerBI | Windows, Linux, Android
+>> Python | MS SQL Server | Sheets | PowerBI | Windows, Linux, Android
 
 
 
